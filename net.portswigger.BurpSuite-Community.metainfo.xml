@@ -26,8 +26,11 @@
     <category>Development</category>
   </categories>
   <releases>
-    <release version="2025.5.5" date="2025-05-05">
+    <release version="2025.6.5" date="2025-07-18">
       <description></description>
+    </release>
+    <release version="2025.5.5" date="2025-05-05">
+      <description/>
     </release>
   </releases>
   <content_rating type="oars-1.1"/>
