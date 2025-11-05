@@ -18,6 +18,7 @@
   <screenshots>
     <screenshot type="default">
       <image type="source">https://portswigger.net/burp/communitydownload/images/pro-screenshots.png</image>
+      <caption>Main Window</caption>
     </screenshot>
   </screenshots>
   <categories>
