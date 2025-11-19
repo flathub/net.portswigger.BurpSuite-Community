@@ -27,8 +27,11 @@
     <category>Development</category>
   </categories>
   <releases>
-    <release version="2025.10.4" date="2025-11-10">
+    <release version="2025.10.5" date="2025-11-18">
       <description></description>
+    </release>
+    <release version="2025.10.4" date="2025-11-10">
+      <description/>
     </release>
     <release version="2025.10.3" date="2025-11-06">
       <description/>
