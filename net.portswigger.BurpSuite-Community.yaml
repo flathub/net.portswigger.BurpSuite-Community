@@ -51,9 +51,9 @@ modules:
 
       - type: extra-data
         filename: burpsuite.jar
-        url: https://portswigger.net/burp/releases/download?product=community&version=2026.3.2&type=Jar
-        sha256: 3ee5795e681d04191f3d2d29737c4436d4d43cca5e9b21c30ce4cb56ec76e17b
-        size: 684757598
+        url: https://portswigger.net/burp/releases/download?product=community&version=2026.3.3&type=Jar
+        sha256: 46b60895b2488bc76911795c53a85ae2ef2f5d6ff734b6ec6f5dd616b2b99875
+        size: 684704951
         x-checker-data:
           type: html
           url: https://portswigger.net/burp/releases/community/latest
