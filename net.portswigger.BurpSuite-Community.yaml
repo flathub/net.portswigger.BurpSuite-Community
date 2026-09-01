@@ -14,6 +14,7 @@ finish-args:
   - --device=dri
   - --persist=.BurpSuite
   - --persist=.java
+  - --env=XDG_SESSION_TYPE=x11
 
 modules:
   - name: openjdk
