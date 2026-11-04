@@ -57,6 +57,7 @@ modules:
         size: 684704951
         x-checker-data:
           type: html
-          url: https://portswigger.net/burp/releases/community/latest
-          version-pattern: burpsuite_community_v([0-9.]+).jar
-          url-template: https://portswigger.net/burp/releases/download?product=community&version=${version}&type=Jar
+          url: https://portswigger.net/burp/downloads
+          # Since 2026.4, Community and Professional share the desktop download.
+          version-pattern: burpsuite_desktop_v([0-9]+(?:\.[0-9]+)+)\.jar
+          url-template: https://portswigger.net/burp/releases/download?product=desktop&version=${version}&type=Jar
